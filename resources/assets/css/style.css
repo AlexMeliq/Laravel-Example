@@ -1,0 +1,23 @@
+.fLeft{
+    float: left;
+    margin: 5px;
+}
+.addPost a{
+    color:white;
+}
+.addPost{
+    float: right;
+    margin: 14px;
+}
+.h1 h1{
+    float: left;
+}
+.h1.panel{
+    margin-top: 0;
+}
+.panel:after{
+    content: '';
+    clear: both;
+    display: block;
+    margin: 10px;
+}
